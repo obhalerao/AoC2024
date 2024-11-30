@@ -1,2 +1,2 @@
 # AoC2024
-Advent of Code 2024 :D
+Omkar's attempt (keyword attempt) to solve problems after midnight EST quickly for the fourth year in a row.
